@@ -32,10 +32,13 @@
 
 ## Walkthrough
 ---
+<a href='https://drive.google.com/file/d/1d_YpeeTtKoYiZ7x6ITsXaNF_7tOiOxem/view?usp=sharing'>1st part of Demo Video</a>
 
 - The walkthrough video demonstrates how to create the schema from the MySQL shell.
 - The walkthrough video demonstrates how to seed the database from the command line using VSCODE.
 - The walkthrough video demonstrates how to start the application’s server using VSCODE.
+---
+<a href='https://drive.google.com/file/d/1rhUgCoavxsndYbtuBnCkhntGfukdbr9p/view?usp=sharing'>2nd part of Demo Video</a>
 
 - The walkthrough video demonstrates GET, POST, PUT, and DELETE routes for categories which will work for all othe routes usin POSTMAN.
 
